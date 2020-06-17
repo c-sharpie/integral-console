@@ -3,7 +3,7 @@
     <RootNamespace>Integral</RootNamespace>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <RepositoryUrl>https://github.com/c-sharpie/integral-library</RepositoryUrl>
+    <RepositoryUrl>https://github.com/c-sharpie/integral-console</RepositoryUrl>
 	<PackageProjectUrl>https://github.com/c-sharpie</PackageProjectUrl>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <NeutralLanguage>en</NeutralLanguage>

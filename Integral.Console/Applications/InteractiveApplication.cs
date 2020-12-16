@@ -33,7 +33,7 @@ namespace Integral.Applications
                             break;
                         case ConsoleKey.Oem2:
                             Console.Write(consoleKeyInfo.KeyChar);
-                            consoleStringActionCollection.Execute(new ConsoleString(Console.ReadLine()));
+                            consoleStringActionCollection.Execute(new ConsoleString(Console.ReadLine() ?? string.Empty));
                             break;
                         default:
                             consoleKeyInfoActionCollection.Execute(consoleKeyInfo);

@@ -3,7 +3,7 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Integral" Version="0.0.1" />
+    <PackageReference Include="Integral" Version="0.0.9" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Integral.Console.Interface\Integral.Console.Interface.csproj" />
